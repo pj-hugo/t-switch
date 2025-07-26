@@ -1,5 +1,5 @@
 # t-switch
-A simple terminal-based theme switcher that edits your configuration files to change between different color themes. It uses regex expression to find specifc parts of configuration files to edit.
+A simple terminal-based theme switcher that edits your configuration files to change between different color themes. It uses regex expression to find specific parts of configuration files to edit.
 
 ## Installation
 1. Clone the repository:
